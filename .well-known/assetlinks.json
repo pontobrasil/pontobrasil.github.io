@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.pontobrasil.cometommy",
+    "sha256_cert_fingerprints": ["F7:17:5B:93:F8:F3:D5:76:31:C1:4F:41:CB:B5:BC:99:3A:38:A9:68:82:36:ED:00:6C:44:FE:1A:39:88:C2:C4"]
+  }
+}]
