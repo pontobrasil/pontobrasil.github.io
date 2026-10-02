@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.pontobrasil.cometommy",
-    "sha256_cert_fingerprints": ["F7:17:5B:93:F8:F3:D5:76:31:C1:4F:41:CB:B5:BC:99:3A:38:A9:68:82:36:ED:00:6C:44:FE:1A:39:88:C2:C4"]
+    "sha256_cert_fingerprints": [
+      "F7:17:5B:93:F8:F3:D5:76:31:C1:4F:41:CB:B5:BC:99:3A:38:A9:68:82:36:ED:00:6C:44:FE:1A:39:88:C2:C4",
+      "26:FB:78:70:98:8B:9E:3F:61:82:D2:54:A6:7E:9F:58:3F:2B:80:C1:AF:4A:D9:1A:05:F1:BC:D4:1F:6D:CB:61"
+    ]
   }
 }]
